@@ -1,6 +1,6 @@
 goland 打开docker源码
 go version
-1.16.3 windows/amd64
+1.15.3 windows/amd64
 
 ================
 
